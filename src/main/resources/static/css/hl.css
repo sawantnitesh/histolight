@@ -1,0 +1,101 @@
+
+.margin-5 {
+    margin: 5px;
+}
+
+.margin-10 {
+    margin: 10px;
+}
+
+.margin-20 {
+    margin: 20px;
+}
+
+.margin-left-20 {
+    margin-left: 20px;
+}
+
+.margin-top-60 {
+    margin-top: 60px;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.space-20 {
+    margin-left: 20px;
+}
+
+.height-38 {
+    height: 38px;
+}
+
+select {
+    appearance: none;
+    outline: 0;
+    background: rgba(230, 236, 255, 0.4);
+    background-image: none;
+    cursor: pointer;
+    border: 1px solid rgb(225, 225, 225);
+    border-radius: 3px;
+    font-family: 'Segoe UI', 'Roboto', arial, sans-serif;
+    font-size: 14px;
+    border-radius: .25em;
+}
+
+.inputText {
+    background: rgba(230, 236, 255, 0.4);
+    background-image: none;
+    cursor: pointer;
+    border: 1px solid rgb(225, 225, 225);
+    border-radius: 3px;
+    font-family: 'Segoe UI', 'Roboto', arial, sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+.iconimage {
+    width: 32px;
+    height: 32px;
+}
+
+.fieldLabel {
+    font-family: 'Segoe UI', 'Roboto', arial, sans-serif;
+    font-size: 14px;
+}
+
+#statsTable {
+
+    border: 1px solid rgb(225, 225, 225);
+    border-collapse: collapse;
+    font-family: 'Segoe UI', 'Roboto', arial, sans-serif;
+    font-size: 14px;
+}
+
+#statsTable th {
+    border: 1px solid rgb(225, 225, 225);
+    padding: 5px;
+    background-color: rgba(230, 236, 255, 0.8) !important;
+}
+
+#statsTable td {
+    border: 1px solid rgb(225, 225, 225);
+    padding: 5px;
+}
+
+.lightBlueRow {
+    background-color: rgba(230, 236, 255, 0.4);
+}
+
+.infoText {
+    font-family: 'Segoe UI', 'Roboto', arial, sans-serif;
+    font-size: 14px;
+    color: darkslategrey;
+}
+
+.errorText {
+    font-family: 'Segoe UI', 'Roboto', arial, sans-serif;
+    font-size: 14px;
+    color: red;
+}
